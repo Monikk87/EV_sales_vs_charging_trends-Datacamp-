@@ -1,6 +1,6 @@
 # EV_sales_vs_charging_trends-Datacamp-
 
-#### High level examination via a chart of EV sales vs charging trends in the US (2015-2018)
+#### High level examination via a chart of EV sales vs charging trends in the US (2015-2018) in a Datacamp project as part of a Data Scientist track learning
 
 ### Problem description:
 With the EV market rapidly evolving, understanding trends in charging facilities and sales is essential to inform strategic planning.
